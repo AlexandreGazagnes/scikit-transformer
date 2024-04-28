@@ -16,7 +16,7 @@ assignees: ""
 
 ## Acknowledgement
 
-- [ ] If I am on **Windows**, I read the [Documentation page](https://alexandregazagnes.github.io/scikit-transformers/)
+- [ ] I read the [Documentation page](https://alexandregazagnes.github.io/scikit-transformers/)
       before writing a new bug report
 
 ## Bug description
